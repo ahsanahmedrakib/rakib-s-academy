@@ -1,0 +1,6 @@
+.my-own-nav li{
+    font-size: 18px;
+}
+.my-own-nav li a:hover{
+    color: red!important;
+}
